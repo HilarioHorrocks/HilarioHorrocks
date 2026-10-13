@@ -54,13 +54,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="assets/agro-rag.jpg" />
-      <h4>Agro RAG</h4>
-      Asistente agronómico con RAG sobre fichas de herbicidas y guías de control de malezas.
+      <a href="https://github.com/HilarioHorrocks/AgroRAG"><img width="100%" src="assets/agro-rag.jpg" /></a>
+      <h4><a href="https://github.com/HilarioHorrocks/AgroRAG">Agro RAG</a></h4>
+      Asistente agronómico que responde desde marbetes de herbicidas y guías de malezas, citando la página de cada dato. Incluye evaluación de recuperación y tests.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-1a1b2e?style=flat-square&logo=python&logoColor=FFD43B" />
       <img src="https://img.shields.io/badge/FastAPI-1a1b2e?style=flat-square&logo=fastapi&logoColor=009688" />
       <img src="https://img.shields.io/badge/pgvector-1a1b2e?style=flat-square&logo=postgresql&logoColor=699ECA" />
+      <img src="https://img.shields.io/badge/Groq-1a1b2e?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <img width="100%" src="assets/peluqueria.jpg" />
