@@ -54,6 +54,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img width="100%" src="assets/agro-rag.jpg" />
       <h4>Agro RAG</h4>
       Asistente agronómico con RAG sobre fichas de herbicidas y guías de control de malezas.
       <br/><br/>
