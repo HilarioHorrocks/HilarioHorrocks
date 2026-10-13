@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HilarioHorrocks/AgroRAG"><img width="100%" src="assets/agro-rag.jpg" /></a>
+      <a href="https://github.com/HilarioHorrocks/AgroRAG"><img width="100%" src="assets/agro-rag.png" /></a>
       <h4><a href="https://github.com/HilarioHorrocks/AgroRAG">Agro RAG</a></h4>
       Asistente agronómico que responde desde marbetes de herbicidas y guías de malezas, citando la página de cada dato. Incluye evaluación de recuperación y tests.
       <br/><br/>
